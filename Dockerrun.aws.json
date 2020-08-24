@@ -24,7 +24,7 @@
     },
     {
       "name": "nginx",
-      "image": "mlars20/nginx",
+      "image": "mlars20/multi-nginx",
       "hostname": "nginx",
       "essential": true,
       "portMappings": [
